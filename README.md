@@ -16,10 +16,22 @@ Instale as dependências do projeto com:
   npm install
 ```
 
+ou
+
+```
+  yarn
+```
+
 Em seguida altere o campo `baseURL` no arquivo `src/api/axios.js` para o endereço onde a API será executada.
 
 Execute a aplicação:
 
 ```
   npm start
+```
+
+ou
+
+```
+  yarn start
 ```
